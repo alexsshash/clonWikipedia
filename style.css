@@ -67,6 +67,8 @@ h4 {
     display: block;
 }
 
+/* Switchear los a por div */
+
 .main-section-idiomas-div-idiomas div:nth-child(1) a div {
     margin-left: 5.5rem;
     margin-right: 5.5rem;
